@@ -1,0 +1,8 @@
+- "What is one thing about Git or GitHub that I now understand and could explain to a friend?"
+- "What is one thing I'm still unsure about, and what is my plan to figure it out?"
+
+1. What is one thing I now understand?
+I understand and am familiar with the stage > commit > push cycle. I also understand why and how Git and GitHub allow developers to track changes, collaborate on code and manage conflicting edits without accidentally overwriting each other's work.
+
+2. What am I still unsure about?
+I am still unfamiliar with using the terminal to clone and fork repositories, particularly how terminal commands correspond to VS Code's built-in Git functions. I plan to practise both methods side by side to better understand how they relate and become more confident using either approach.
